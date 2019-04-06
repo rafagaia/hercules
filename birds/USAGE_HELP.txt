@@ -1,0 +1,5 @@
+# [HELP / USAGE] [Python 3.7.0]
+
+$>python3 birds.py [arg1] [arg2]
+[argv1]: What Language? (Current support: "C")
+[argv2]: [optional:default:0] Create src/lib? ("y", "yes")

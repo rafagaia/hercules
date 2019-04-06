@@ -1,0 +1,3 @@
+To schedule, launch ./launch.sh
+
+That will schedule boar.sh to run at december 21 8:42 am. No, didn't need 2 files
